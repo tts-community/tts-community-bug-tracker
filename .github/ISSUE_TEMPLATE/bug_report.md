@@ -37,5 +37,8 @@ If applicable, XML:
  - OS: [i.e.. Windows, Linux, macOS]
  - Version [visible in bottom right corner of TTS' menu screen e.g. v12.1.6]
 
+**Known workarounds**
+If applicable, please add details about known workarounds; Lua, XML, steps to follow etc.
+
 **Additional context**
 Add any other context about the problem here.
