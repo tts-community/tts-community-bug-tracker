@@ -14,4 +14,4 @@ Once you've established your problem is not already documented, you may [file a 
 
 This is a community maintained list of bugs. Its primary purpose is to help the mod development community become aware of unexpected behavior.
 
-By properly documenting the bugs it should make it easier to forward this same information onto Berserk Games, who may be able to fix the issues. However, to be perfectly clear, we have no official affliation with Berserk Games.
+By properly documenting the bugs it should make it easier to forward this same information onto Berserk Games, who may be able to fix the issues. However, to be perfectly clear, we have no official affiliation with Berserk Games.
