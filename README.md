@@ -1,6 +1,6 @@
 # tts-community-bug-tracker
 
-Community maintained list of Tabletop Simulator bugs.
+Community maintained Tabletop Simulator bug tracker.
 
 ## Filing a bug
 
@@ -15,3 +15,7 @@ Once you've established your problem is not already documented, you may [file a 
 This is a community maintained list of bugs. Its primary purpose is to help the mod development community become aware of unexpected behavior.
 
 By properly documenting the bugs it should make it easier to forward this same information onto Berserk Games, who may be able to fix the issues. However, to be perfectly clear, we have no official affiliation with Berserk Games.
+
+## Who maintains this bug tracker?
+
+The Tabletop Simulator community at large are encouraged to contribute. Officially, this project is maintained by a semi-formal community group that also maintain [https://tts-community.github.io/](https://tts-community.github.io/) and are reachable on the [TTS Community Discord](https://discord.gg/xrqynr2).
